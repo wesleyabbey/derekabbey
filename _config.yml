@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: DEREK ABBEY.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://www.wesleyabbey.com/derekabbey"
 
 # Build settings
 markdown: kramdown
@@ -13,9 +13,9 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#384452" #"#33004D"
+  primary: "#448AFF" #"#F70031" 
+  primary_rgb: "68,138,255" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#757575" #"#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
@@ -40,11 +40,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
+    - Some Ave, 1738,
+    - 92126, San Diego,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: derekabbey@icloud.com
+tel: +1 858 208-9228
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -105,5 +105,11 @@ about: "Lorem Ipsum is simply dummy text of the printing and typesetting industr
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    author: Wesley Abbey
+    position: Software Engineer - Wayfair.com
+
+
+
+
+
+
