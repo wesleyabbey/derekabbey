@@ -7,11 +7,11 @@ permalink: /blog/
 <div class="container mtb">
     <div class="row">
 
-        <! -- BLOG POSTS LIST -->
-        <div class="col-lg-8">
+        <!-- BLOG POSTS LIST -->
+        <div class="col-lg-12">
 
             {% for post in site.categories['blog'] %}
-                <! -- Blog Post -->
+                <!-- Blog Post -->
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ post.img }}">
                 </a>    
@@ -24,9 +24,11 @@ permalink: /blog/
                 <div class="spacing"></div>
             {% endfor %}
 
-        </div><! --/col-lg-8 -->
+        </div><!--/col-lg-12 -->
 
-        {% include sidebar.html %}
+        <!-- Changing this back will fuck with the sizing. Don't forget to change the column length -->
+        <!-- Change the tag as well to be real since they render in comments I removed them -->
+        <!-- { include sidebar.html } -->
 
-    </div><! --/row -->
-</div><! --/container -->
+    </div><!--/row -->
+</div><!--/container -->

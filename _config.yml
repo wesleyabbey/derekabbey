@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: DEREK ABBEY.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: DM ABBEY
+description: "Welcome! DM Abbey Coaching and Consulting provide our clients personal attention through coaching and consulting practices that develop, grow, clarify, and test perspectives. We then work with our clients to create measurable and attainable goals and a clear pathway to their completion."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.wesleyabbey.com/derekabbey"
@@ -26,87 +26,87 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/derek-abbey-38443428
   - title: twitter
-    url: 
+    url: https://twitter.com/derekabbey
   - title: instagram
+    url: https://www.instagram.com/121cosmo
+  - title: facebook
     url: 
-  - title: tumblr
+  - title: envelope
     url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 1738,
+    - Fetty Way, 1738,
     - 92126, San Diego,
     - United States.
 email: derekabbey@icloud.com
-tel: +1 858 208-9228
+tel: +1 858 722-5209
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+# members:
+#   - name: Mark Webber
+#     position: CEO
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team01.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Paul Jameson
+#     position: Lead Designer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team02.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Laura Sommers
+#     position: Lead Developer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team03.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Martin Blunt
+#     position: Marketing
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team04.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+# clients:
+#   - name: dribbble
+#     img: client01.png
+#   - name: Code is Poetry
+#     img: client02.png
+#   - name: Vimeo
+#     img: client03.png
+#   - name: VimeoPro
+#     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "DM Abbey Coaching and Consulting provides you personal attention through coaching and consulting. We work with you to create measurable and attainable goals and a clear pathway to their completion."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Wesley Abbey
-    position: Software Engineer - Wayfair.com
+    message: "Thanks to Derek and his guidance I've gone from acting like an adolescent to a full time job at an amazing tech company in Boston. If it wasn't for his consulting I would definitely not be where I am today."
+    author: Wesley A.
+    position: Software Engineer - Wayfair
 
 
 
