@@ -4,7 +4,7 @@
 title: DM ABBEY
 description: "Welcome! DM Abbey Coaching and Consulting provide our clients personal attention through coaching and consulting practices that develop, grow, clarify, and test perspectives. We then work with our clients to create measurable and attainable goals and a clear pathway to their completion."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/derekabbey" #important: start with /
+baseurl: "" #important: start with /
 url: ""
 
 # Build settings
