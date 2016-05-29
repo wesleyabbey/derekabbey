@@ -35,15 +35,9 @@ social:
   - title: facebook
     url: https://www.facebook.com/DMAbbeyCC
   - title: envelope
-    url: 
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Fetty Way, 1738,
-    - 92126, San Diego,
-    - United States.
-email: derekabbey@icloud.com
+    url: mailto:derek@dmabbey.com
+
+email: derek@dmabbey.com
 tel: +1 858 722-5209
 
 
